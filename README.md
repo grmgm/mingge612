@@ -32,7 +32,7 @@ SQL:
 
 This is my resume and portfolio, and I am looking for a Intern/Coop job. 
 
-As a penultimate year student, I am currently studying engineering at Virginia Tech and will graduate in May 2022. 
+As a penultimate year student, I am studying aerospace engineering at Virginia Tech and will graduate in May 2022. 
 
 I am currently on an F-1 visa with a valid OPT. Willing and able to work remotely or relocate.    
 
