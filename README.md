@@ -31,13 +31,17 @@ SQL:
 # My Portfolio  
 
 This is my resume and portfolio, and I am looking for a Intern/Coop job. 
+
 As a penultimate year student, I am currently studying engineering at Virginia Tech and will graduate in May 2022. 
+
 I am currently on an F-1 visa with a valid OPT. Willing and able to work remotely or relocate.    
-Professional fluency in both speaking, reading, and writing in Chinese and English.    
+
+Professional fluency in both speaking, reading, and writing in Chinese, English and Japanese.    
 
 ## Web link
 
 LinkedIn: [https://www.linkedin.com/in/mingming-ge/](https://www.linkedin.com/in/mingming-ge/)  
+
 GitHub: [https://github.com/mingge612](https://github.com/mingge612)   
 
 
@@ -45,6 +49,8 @@ GitHub: [https://github.com/mingge612](https://github.com/mingge612)
 
 Python:    
 [BikeShare Prediction ML project](https://github.com/mingge612/Kaggle_BikeShare)  
+
 [Developed KNN classifier](https://github.com/mingge612/KNN)  
+
 [Developed Decision-Tree classifier](https://github.com/mingge612/Decision-Tree-classifier)  
 
