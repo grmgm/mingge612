@@ -48,7 +48,11 @@ GitHub: [https://github.com/mingge612](https://github.com/mingge612)
 ## Project and related experiences 
 
 Python:    
+[Spam email classification project](https://github.com/mingge612/spam-classif)
+
 [BikeShare Prediction ML project](https://github.com/mingge612/Kaggle_BikeShare)  
+
+[Scraping by web spider](https://github.com/mingge612/Scraping-book-info)
 
 [Developed KNN classifier](https://github.com/mingge612/KNN)  
 
