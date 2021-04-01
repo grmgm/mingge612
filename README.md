@@ -30,9 +30,9 @@ SQL:
 
 # My Portfolio  
 
-This is my resume and portfolio, and I am looking for a Intern/Coop job. 
+This is my [resume](https://github.com/mingge612/mingge612/blob/main/Resume-Mingming%20Ge-data.pdf) and portfolio, and I am looking for a Intern/Coop job. 
 
-As a penultimate year student, I am studying aerospace engineering at Virginia Tech and will graduate in May 2022. 
+As a penultimate year student, I am researching in data science and mechnical engineering at Virginia Tech and will graduate in May 2022. 
 
 I am currently on an F-1 visa with a valid OPT. Willing and able to work remotely or relocate.    
 
