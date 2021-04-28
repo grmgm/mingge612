@@ -54,6 +54,8 @@ Python:
 
 [Scraping by web spider](https://github.com/mingge612/Scraping-book-info)
 
+[Clustering algorithm](https://github.com/mingge612/clustering-models)
+
 [Developed KNN classifier](https://github.com/mingge612/KNN)  
 
 [Developed Decision-Tree classifier](https://github.com/mingge612/Decision-Tree-classifier)  
